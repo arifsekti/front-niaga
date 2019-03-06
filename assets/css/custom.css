@@ -1,0 +1,233 @@
+body {
+    font-size: 15px;
+    line-height: 1.42857143;
+    color: #2c3e50c4;
+    font-family: Monsterrat,sans-serif!important;
+}
+section{
+	padding-top: 50px;
+}
+h1,h2,h3,h4,h5{
+	margin-bottom: 35px;
+}
+p {
+    margin: 0 0 10.5px;
+    line-height: 22px;
+}
+h2 i, h4 i, p {
+    font-weight: 400;
+}
+ul, ul li {
+    list-style: none;
+}
+ul{
+	padding-left: 0px;
+}
+
+.btn-basic-white-domain {
+    background-color: transparent;
+    color: #000;
+    border: solid 2px #000;
+}
+.btn-basic-sm {
+    padding: 8px 17px;
+    border-radius: 35px;
+    font-family: Montserrat-Regular,sans-serif;
+}
+.feature-list li:before {
+    content: "\f058";
+    font-family: "Font Awesome\ 5 Free";
+    float: left;
+    width: 16px;
+    height: 16px;
+    color: #3ecf8e;
+    margin-right: 10px;
+}
+@media only screen and (min-device-width: 968px){
+	.footer_center .bank-logo {
+	    width: 100%;
+	}
+}
+
+@media screen and (min-width: 1280px){
+	.footer_center .bank-logo {
+	    width: 100%;
+	}
+}
+
+ul.logo-bank li {
+    width: 7%;
+    float: left;
+    margin-right: 5px;
+}
+.footer {
+    padding: 20px 0 0;
+    color: #FFF;
+}
+
+.footer {
+    float: left;
+    width: 100%;
+    background-color: #333;
+}
+.defer-load {
+    display: none;
+}
+.footer .footer_center {
+    float: left;
+    width: 100%;
+    color: #d7d7d7;
+    line-height: 18px;
+}
+.footer .font-r-bold.title {
+    font-size: 14px!important;
+    color: #8d8d8d!important;
+}
+
+.font-r-bold {
+    font-family: Roboto-Bold!important;
+}
+.font-m-bold, .font-m-light, .font-m-normal, .font-r-bold, .font-r-light, .font-r-normal {
+    font-style: normal!important;
+    color: #4d4d4d!important;
+}
+
+.footer .font-r-bold.text, .footer .nunito-regular.text {
+    font-size: 14px!important;
+    color: #d7d7d7!important;
+}
+
+.nunito-regular {
+    font-family: NunitoSans-Regular!important;
+    font-weight: 400!important;
+}
+.footer_center .list li a {
+    color: #d7d7d7;
+}
+
+.footer a {
+    color: #d7d7d7;
+}
+.footer_center .list li {
+    padding: 5px 0 0;
+    margin: 0;
+    line-height: 24px;
+}
+
+.no-arrow li {
+    background: 0 0!important;
+}
+.nunito-light {
+    font-family: NunitoSans-Light!important;
+    font-weight: 300!important;
+}
+.font-white {
+    color: #FFF!important;
+}
+.copyright_info {
+    padding: 30px 0 50px;
+    margin: 0;
+    width: 100%;
+    font-size: 12px;
+    background-color: #333;
+    float: left;
+    color: #d7d7d7;
+    text-align: center;
+}
+
+.copyright_info {
+    padding: 30px 0 50px!important;
+    text-align: center!important;
+}
+#newsletter_submit .form-control {
+    border: none;
+    border-radius: 30px 0 0 30px;
+}
+#newsletter_submit .input-group-btn {
+    background-color: #fff;
+    background-image: none;
+    border-radius: 0 30px 30px 0;
+    box-shadow: 0 1px 1px rgba(0,0,0,.075) inset;
+    color: #2c3e50;
+    padding-right: 5px;
+}
+#newsletter_submit .input-group-btn button {
+    padding: 5px;
+    height: 33px;
+    border-radius: 30px;
+    margin-left: 5px;
+}
+
+.input-group-btn {
+    font-size: 0;
+    white-space: nowrap;
+}
+.input-group {
+    display: table;
+    border-collapse: separate;
+}
+.di-hc-lg {
+    font-size: 1.33333333em;
+    line-height: .75em;
+    vertical-align: -15%;
+}
+
+.zmdi {
+    display: inline-block;
+    font: normal normal normal 14px/1 'Material-Design-Iconic-Font';
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.zmdi-hc-border-circle-fb {
+    border: .1em solid #d7d7d7!important;
+    border-radius: 50%;
+    padding: .6em .8em!important;
+}
+
+.zmdi-facebook:before {
+    content: '\f343';
+}
+.zmdi-twitter:before {
+    content: '\f360';
+}
+.zmdi-instagram:before {
+    content: '\f34f';
+}
+.zmdi-linkedin:before {
+    content: '\f3f8';
+}
+.font-m-light {
+    color: #fff!important;
+    font-size: 32px!important;
+}
+.thumbnail{
+	border:none;
+}
+.paket{
+	padding: 0px;
+}
+.list-group-item {   
+    border: 1px solid #dddddd54;
+}
+.list-group-item-activ {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #fff;   
+    border: 1px solid #008ff1;
+}
+.btn-basic-white-domain-activ{
+	background-color: #008ff1;
+	color: #ffff;
+}
+.list-group-item-btm {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #fff;   
+    border-top: transparent;
+}
